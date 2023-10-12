@@ -1,0 +1,1 @@
+const texto = `Os e-mails dos convidados são: `
